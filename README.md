@@ -1,5 +1,7 @@
 # 業務経歴書
 
+![url](https://github.com/yusuke-tnb/cv/blob/image/IMG_0048.PNG)
+
 ## 基本情報
 
 |key|value|
