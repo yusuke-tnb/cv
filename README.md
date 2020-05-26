@@ -23,7 +23,7 @@
 - MySQL / MongoDB / Redis
 - AWS（EC2 / S3 / RDS / Aurora / ECS など）
 - Firebase（Authetication / Cloud Firestore など）
-- Git / Github / Github Actions / Gitlab / Docker / CircleCI
+- Git / Github / Github Actions / Gitlab / Docker / CircleCI など
 
 ## 自己PR
 
