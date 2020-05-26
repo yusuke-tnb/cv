@@ -131,7 +131,7 @@
 ### spoty 〜"いま" 会える友達が見つかるアプリ〜 
 
 【使用技術】  React / Node / MongoDB / AWS（ECS、 Route53）  
-【Github】  
+【Github】https://github.com/yusuke-tnb/spoty    
 【URL】http://spotyapp.net/  
 【備考】
 - json web token（jwt）を用いてログインを永続化しています。
