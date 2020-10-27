@@ -136,5 +136,3 @@
 【Github】https://github.com/yusuke-tnb/spoty    
 【URL】http://spotyapp.net/ （現在稼働停止中）  
 【備考】
-- json web token（jwt）を用いてログインを永続化しています。
-- Twitter APIを用いてツイート情報などを取得しています。
