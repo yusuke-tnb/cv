@@ -16,7 +16,7 @@
 
 ## スキル
 
-- HTML / CSS / Sass
+- HTML / CSS / Sass / Pug
 - JavaScipt / TypeScript / PHP
 - C++ / C# / WPF
 - Vue（Nuxt） / React（Next）
