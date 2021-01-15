@@ -14,25 +14,13 @@
 |ポートフォリオ|[spoty](http://spotyapp.net) 〜"いま" 会える友達が見つかるアプリ〜 （一時停止中）|
 |SNS|[Qiita](https://qiita.com/yusuke_1011) |
 
-## スキル
-
-- HTML / CSS / Sass / Pug
-- JavaScipt / TypeScript / PHP
-- C++ / C# / WPF
-- Vue（Nuxt） / React（Next）
-- Node（Express, Nest.js） / Laravel
-- MySQL / MongoDB / Redis
-- AWS（EC2 / S3 / RDS / Aurora / ECS など）
-- Firebase（Authetication / Cloud Firestore など）
-- Git / Github / Github Actions / Gitlab / Docker / CircleCI など
-
 ## 自己PR
 
-- フロントエンド / バックエンド / インフラの総合的な知見があります。
-- その中でも特に、モダンフレームワークを用いたフロントエンド開発とバックエンド開発全般が得意です。
-- 要件定義や仕様検討、アーキテクチャ設計など、上流工程の経験も豊富です。
+- 企業のCTOとしてテックチームのマネジメント、新規事業を一から創出、事業拡大に伴う組織づくり、の経験があります。
+- 新規プロジェクトの技術選定、アプリ、インフラのアーキテクチャ設計の経験があります。
+- フロントエンド / バックエンド / インフラの総合的な知見がありますが、フロントエンドのデザイン周りは苦手です。
 - コンセプチュアルスキルを活かして全体目標から具体的行動に落とし込み、主体的に行動します。
-- キャッチアップの速度と精度に自身があり、未経験の内容にも積極的に携わっていきたいと考えております。
+- キャッチアップの速度と精度に自身があり、新しいことに調整する意欲があります。
 
 ## 最近の業務経歴
 
