@@ -107,6 +107,6 @@
 
 【使用技術】  React / Node / MongoDB / AWS（ECS）  
 【Github】https://github.com/yusuke-tnb/spoty    
-【URL】http://spotyapp.net/ （現在稼働停止中）  
+【URL】https://spotyapp.net/ （現在稼働停止中）  
 【備考】
 時間優先で作成したので、コードの綺麗さはあまり見ないでください。。。泣
