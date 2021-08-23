@@ -9,7 +9,7 @@
 |地域|神奈川県　川崎市中原区|
 |学歴|東北大学大学院 工学研究科 博士課程前期修了|
 |英語力|TOEIC710点(2014年受験)|
-|受賞|[Startup Stage2020 最優秀賞](https://www.sankeibiz.jp/business/photos/201222/prl2012221402204-p2.htm)　　※3名チームで受賞。|
+|受賞歴|[Startup Stage2020 最優秀賞](https://www.sankeibiz.jp/business/photos/201222/prl2012221402204-p2.htm)　　※3名チームで受賞。|
 |取材|[日経クロステック](https://xtech.nikkei.com/atcl/nxt/column/18/01572/021900001/)　　　[Wantedly](https://www.wantedly.com/companies/lastmile-works/post_articles/328524)|
 
 ## 要約
